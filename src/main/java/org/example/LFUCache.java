@@ -26,7 +26,6 @@ public class LFUCache {
             keyMap.get(key).addKey(key, value);
             return;
         }
-
         if(currSize == cacheSize) {
             invalidateCache();
             currSize--;
