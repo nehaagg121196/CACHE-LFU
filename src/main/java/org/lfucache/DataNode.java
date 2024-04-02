@@ -1,4 +1,4 @@
-package org.example;
+package org.lfucache;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

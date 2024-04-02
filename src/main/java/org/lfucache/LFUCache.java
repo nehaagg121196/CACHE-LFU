@@ -1,4 +1,4 @@
-package org.example;
+package org.lfucache;
 
 import java.util.HashMap;
 import java.util.Map;
